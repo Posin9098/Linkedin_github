@@ -14,5 +14,9 @@ We need all required parameter and rest of all are optional.
 
 Note: We can pass either **project_version** or **project_version_id** 
 
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
+Request parameters
+|     Name      |      Type        | Cool  |
+| ------------- |:----------------:| -----:|
+| title         | right-aligned    | $1600 |
+| status_id     | centered         |   $12 |
+| severity_id   | are neat         |    $1 |
