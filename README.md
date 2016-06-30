@@ -6,8 +6,8 @@ For add a new bug you just create an url (explain below) with parameters and hit
 
 For this we want various parameter (List is below)
 
-* Project_id (as **project_id**) : Id of project in which we want to add bug
-* Token (as **token**): Authentication token
+* Project_id (as '**project_id**') : Id of project in which we want to add bug
+* Token (as '**token**'): Authentication token
 
 Rest of all lean parameters are below.
 We need all required parameter and rest of all are optional.
