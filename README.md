@@ -19,7 +19,7 @@ Request parameters
 Name | type | Description | Required
 ------------ | ------------- | ------------- | -------------
 title | string | Bug title | Required
-status_id | integer || Required
+status_id | 'integer' || Required
 status_id | integer || Required
 project_version | string |The project version where the bug occurred. e.g. v1.1 or beta | Required
 project_version_id | integer | The project version ID where the bug occurred. This parameter has precedence over project_version. | Required
