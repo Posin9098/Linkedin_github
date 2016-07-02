@@ -76,17 +76,17 @@ assigned_user_id=20154&reproducibility_id=1&type_id=1&priority_id=1&description=
 
 *Note: Download all file(s) and folder(s) (mentioned above) and upload it on new server.*
 
-STEP-II
+### STEP-II
 
-Update url with your new domain name 
+***Update url with your new domain name*** 
 
-Updated Main url: http://yourdomain.com/helpbaseify.php?
+1. **Updated Main url**: http://yourdomain.com/helpbaseify.php?
 
-Required parameters: project_id=15646&token=aemV7Olm9syJGdZ59RnCF86RDJg6Ap2MG6NK7XsI&title=Bugwithapi&status_id=1&severity_id=2&project_version_id=19756
+**Required parameters**: project_id=15646&token=aemV7Olm9syJGdZ59RnCF86RDJg6Ap2MG6NK7XsI&title=Bugwithapi&status_id=1&severity_id=2&project_version_id=19756
 
-Optional parameters: 
+**Optional parameters**: 
 assigned_user_id=20154&reproducibility_id=1&type_id=1&priority_id=1&description=itsjustatest&expected_results=getresult&project_section_id=47219&device_type_id=3&device_model_id=3597&browser_version_id=43&os_version_id=6
 
 
-Rest of the things remain unchanged.
+***Rest of the things remain unchanged.***
 
