@@ -44,6 +44,7 @@ browser_version_id | integer |  | Optional
 **Here is the example of rest api url**
 
 URL:
+
 **Main url** : http://a.posintechnologies.com/helpbaseify.php?
 **Required parameters** : project_id=15646&token=aemV7Olm9syJGdZ59RnCF86RDJg6Ap2MG6NK7XsI&title=Bugwithapi&status_id=1&severity_id=2&project_version_id=19756
 **Optional parameters** : 
