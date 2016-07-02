@@ -74,3 +74,4 @@ assigned_user_id=20154&reproducibility_id=1&type_id=1&priority_id=1&description=
 
 **Apart from the above folders the only file that is needed to be moved is Helpbaseify.php** ***(Helpbaseify.php*** *is the main file to call  API. You just hit url and you will get back with json response.)*
 
+***Note: Download all file(s) and folder(s) (mentioned above) and upload it on new server.***
