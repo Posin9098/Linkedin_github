@@ -18,7 +18,7 @@ Request parameters
 
 Name | type | Description | Required
 ------------ | ------------- | ------------- | -------------
-title | string | Bug title | Required
+title | `string` | Bug title | Required
 status_id | `integer` || Required
 status_id | `integer` || Required
 project_version | `string` |The project version where the bug occurred. e.g. v1.1 or beta | Required
@@ -31,7 +31,7 @@ assigned_user_id | `integer` | The user ID that will be assigned to this bug | O
 description | `string` || Optional
 expected_results | `string` || Optional
 steps | `array` | A list with the steps to reproduce the bu | Optional
-platform | object | The platform details were the bug occurred (with the options shown below). | Optional
+platform | `object` | The platform details were the bug occurred (with the options shown below). | Optional
 | **Show child parameters**
 device_model | `string` | e.g. iPhone | Optional
 device_model_id | `integer` | Has precedence over device_model. | Optional
