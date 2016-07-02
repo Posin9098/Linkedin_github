@@ -74,4 +74,19 @@ assigned_user_id=20154&reproducibility_id=1&type_id=1&priority_id=1&description=
 
 **Apart from the above folders the only file that is needed to be moved is Helpbaseify.php** ***(Helpbaseify.php*** *is the main file to call  API. You just hit url and you will get back with json response.)*
 
-***Note: Download all file(s) and folder(s) (mentioned above) and upload it on new server.***
+*Note: Download all file(s) and folder(s) (mentioned above) and upload it on new server.*
+
+STEP-II
+
+Update url with your new domain name 
+
+Updated Main url: http://yourdomain.com/helpbaseify.php?
+
+Required parameters: project_id=15646&token=aemV7Olm9syJGdZ59RnCF86RDJg6Ap2MG6NK7XsI&title=Bugwithapi&status_id=1&severity_id=2&project_version_id=19756
+
+Optional parameters: 
+assigned_user_id=20154&reproducibility_id=1&type_id=1&priority_id=1&description=itsjustatest&expected_results=getresult&project_section_id=47219&device_type_id=3&device_model_id=3597&browser_version_id=43&os_version_id=6
+
+
+Rest of the things remain unchanged.
+
