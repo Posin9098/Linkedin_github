@@ -23,10 +23,8 @@ status_id | integer || Required
 status_id | integer || Required
 project_version | string |The project version where the bug occurred. e.g. v1.1 or beta | Required
 project_version_id | integer | The project version ID where the bug occurred. This parameter has precedence over project_version. | Required
-project_section_id | integer || Required
-type_id | integer || Required
-reproducibility_id| integer || Required
-| ||
-| ||
-| ||
-| ||
+project_section_id | integer || Optional
+type_id | integer || Optional
+reproducibility_id| integer || Optional
+priority_id| integer || Optional
+assigned_user_id|
