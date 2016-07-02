@@ -1,5 +1,7 @@
 # HelpBaseify REST API
 
+Run: `bin/scfbuild`
+
 Here we create a REST api for report a bug or add new bug from third party to Lean Testing site.
 
 For add a new bug you just create an url (explain below) with parameters and hit that url and it return with a json. 
@@ -19,9 +21,9 @@ Request parameters
 Name | type | Description | Required
 ------------ | ------------- | ------------- | -------------
 title | string | Bug title | Required
-status_id | 'integer' || Required
-status_id | integer || Required
-project_version | string |The project version where the bug occurred. e.g. v1.1 or beta | Required
+status_id | `integer` || Required
+status_id | `integer` || Required
+project_version | `string` |The project version where the bug occurred. e.g. v1.1 or beta | Required
 project_version_id | integer | The project version ID where the bug occurred. This parameter has precedence over project_version. | Required
 project_section_id | integer || Optional
 type_id | integer || Optional
