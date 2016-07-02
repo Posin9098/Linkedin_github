@@ -78,7 +78,7 @@ assigned_user_id=20154&reproducibility_id=1&type_id=1&priority_id=1&description=
 
 ### STEP-II
 
-***Update url with your new domain name*** 
+**Update url with your new domain name**
 
 1. **Updated Main url**: http://yourdomain.com/helpbaseify.php?
 
