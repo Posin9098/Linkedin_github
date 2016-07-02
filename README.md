@@ -46,11 +46,17 @@ browser_version_id | integer |  | Optional
 URL:
 
 **Main url** : http://a.posintechnologies.com/helpbaseify.php?
-**Required parameters** : project_id=15646&token=aemV7Olm9syJGdZ59RnCF86RDJg6Ap2MG6NK7XsI&title=Bugwithapi&status_id=1&severity_id=2&project_version_id=19756
+
+**Required parameters** : 
+
+project_id=15646&token=aemV7Olm9syJGdZ59RnCF86RDJg6Ap2MG6NK7XsI&title=Bugwithapi&status_id=1&severity_id=2&project_version_id=19756
+
 **Optional parameters** : 
+
 assigned_user_id=20154&reproducibility_id=1&type_id=1&priority_id=1&description=itsjustatest&expected_results=getresult&project_section_id=47219&device_type_id=3&device_model_id=3597&browser_version_id=43&os_version_id=6
 
 **So the url with only required fields is**:
+
 required parameters url
 all parameters api
 
