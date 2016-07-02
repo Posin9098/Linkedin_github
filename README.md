@@ -57,6 +57,6 @@ assigned_user_id=20154&reproducibility_id=1&type_id=1&priority_id=1&description=
 
 **So the url with only required fields is**:
 
-required parameters url
+[all parameters api](https://github.com/Posin9098/Linkedin_github/edit/master/README.md) 
 all parameters api
 
