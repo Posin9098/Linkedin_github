@@ -29,3 +29,6 @@ reproducibility_id | integer || Optional
 priority_id | integer || Optional
 assigned_user_id | integer | The user ID that will be assigned to this bug | Optional
 description | string || Optional
+expected_results | string || Optional
+steps | array | A list with the steps to reproduce the bu | Optional
+platform | object | The platform details were the bug occurred (with the options shown below). | Optional
