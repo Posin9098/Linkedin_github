@@ -4,4 +4,13 @@ Here we create a REST api for report a bug or add new bug from third party to Le
 
 For add a new bug you just create an url (explain below) with parameters and hit that url and it return with a json. 
 
+For this we want various parameter (List is below)
+
+1. Project_id (as '**project_id**') : Id of project in which we want to add bug
+2. Token (as '**token**'): Authentication toke
+
+Rest of all lean parameters are below.
+We need all required parameter and rest of all are optional.
+
+Note: We can pass either **project_version** or **project_version_id** 
 
