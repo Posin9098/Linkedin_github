@@ -72,7 +72,7 @@ assigned_user_id=20154&reproducibility_id=1&type_id=1&priority_id=1&description=
 
 3. **Vender**: This is the support folder which is  automatically created when we run the composer. (It checks the compatibility and provides the minimum resources. )
 
-**Apart from the above folders the only file that is needed to be moved is Helpbaseify.php** ***(Helpbaseify.php*** *is the main file to call  API. You just hit url and you will get back with json response.)*
+**Apart from the above folders the only file that is needed to be moved is <ins>Helpbaseify.php</ins>** ***<ins>(Helpbaseify.php</ins>*** *is the main file to call  API. You just hit url and you will get back with json response.)*
 
 ***Note: Download all file(s) and folder(s) (mentioned above) and upload it on new server.***
 
@@ -89,7 +89,7 @@ assigned_user_id=20154&reproducibility_id=1&type_id=1&priority_id=1&description=
 
 
 ***Rest of the things remain unchanged.***
-| insert | Surround inline text with `^^underlined^^` to get ins tags <ins>underlined</ins>. |
+
 
 
 
